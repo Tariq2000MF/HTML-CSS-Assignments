@@ -1,2 +1,2 @@
-# w2_assignment
+# assignments
 Coursera assignment week 2
